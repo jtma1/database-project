@@ -1,4 +1,27 @@
-# Getting Started with Create React App
+# Database Project
+
+A simple database project among friends.
+
+## Tech Stack
+
+- MongoDB
+- Electron/React
+- Javascript (Typescript)
+- Node.js
+- GitHub Actions (?)
+
+## Learning Objectives
+
+- Front-End Web GUI - React
+- Front-End Desktop GUI - Electron (React)
+- Back-End Server/Database - MongoDB / Amazon Server (maybe)
+- SSL/HTTPS Encryption
+- File Synchronization Between Local and Cloud
+- Tools to Improve Workflow (like vim)
+
+## Text from original file is shown below
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
